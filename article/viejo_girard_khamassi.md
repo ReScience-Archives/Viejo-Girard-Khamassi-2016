@@ -25,8 +25,8 @@ Publication:
   issue:     "**1**"
   date:      Feb 2016
 Repository:
-  article:   "https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/article"
-  code:      "https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/code"
+  article:   "https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/tree/master/article"
+  code:      "https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/tree/master/code"
   data:      
   notebook:  
 Reproduction:
