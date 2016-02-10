@@ -13,26 +13,26 @@ Address:
 Contact:
   - guillaume.viejo@isir.upmc.fr
 Editor:
-  - Name Surname
+  - Nicolas P. Rougier
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Julien Vitay
+  - Georgios Detorakis
 Publication:
-  received:  Nov, 1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
+  received:  Jan, 20, 2016
+  accepted:  Feb, 9, 2016
+  published: Feb, 10, 2016
   volume:    "**1**"
   issue:     "**1**"
-  date:      Sep 2015
+  date:      Feb 2016
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/article"
+  code:      "https://github.com/ReScience-Archives/Viejo-Girard-Khamassi-2016/code"
   data:      
   notebook:  
 Reproduction:
   - "Speed/accuracy trade-off between the habitual and the goal-directed processes, M. Keramati, A. Dezfouli, P. Payam, PLoS computational biology, 7, 2011"
 Bibliography:
-  your_article_name.bib
+  viejo_girard_khamassi.bib
 
 ---
 
@@ -193,7 +193,7 @@ In our implementation, $$p(s_0, pl) \simeq 0.7$$ and $$p(s_0, em) \simeq 0.3$$ b
 In the original article, $$p(s_0, pl) \simeq 0.6$$ and $$p(s_0, em) \simeq 0.4$$
 Nevertheless, the probabilities of action from the Kalman Q-Learning after strategy shifting are equivalent.
 
-![A. Value of Precise Information (full lines) for action press-lever and enter magazine in state $S_0$ and reward rate (dashed line) in moderate training. Vertical line represents the timing of devaluation. B. In extensive training. C. Probability of actions in state $S_0$ in moderate training. D. In extensive training.](../code/fig.pdf) {#fig:figure1}
+![A. Value of Precise Information (full lines) for action press-lever and enter magazine in state $S_0$ and reward rate (dashed line) in moderate training. Vertical line represents the timing of devaluation. B. In extensive training. C. Probability of actions in state $S_0$ in moderate training. D. In extensive training.](../code/fig.pdf){#fig:figure1}
 
 # Conclusion
 
