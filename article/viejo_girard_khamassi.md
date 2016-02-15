@@ -30,7 +30,7 @@ Repository:
   data:      
   notebook:  
 Reproduction:
-  - "Speed/accuracy trade-off between the habitual and the goal-directed processes, M. Keramati, A. Dezfouli, P. Payam, PLoS computational biology, 7, 2011"
+  - "Speed/accuracy trade-off between the habitual and the goal-directed processes, M. Keramati, A. Dezfouli, P. Piray, PLoS computational biology, 7, 2011"
 Bibliography:
   viejo_girard_khamassi.bib
 
@@ -43,7 +43,7 @@ used to model the behavior of rats in instrumental conditionning tasks.
 The habitual strategy is the Kalman Q-Learning from @geist. 
 We replicate the results of the first task, i.e. the devaluation experiment with two states and two actions.
 The implementation is in python with numpy, scipy and matplotlib library. 
-The authors couldn't provide the original implementation and we are not aware of others implementations elsewhere.
+The authors couldn't provide the original implementation and we are not aware of other implementations elsewhere.
 
 # Methods
 
