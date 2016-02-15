@@ -21,7 +21,7 @@ Publication:
   received:  Jan, 20, 2016
   accepted:  Feb, 9, 2016
   published: Feb, 10, 2016
-  volume:    "**1**"
+  volume:    "**2**"
   issue:     "**1**"
   date:      Feb 2016
 Repository:
