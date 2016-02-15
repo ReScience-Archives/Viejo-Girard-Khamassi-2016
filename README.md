@@ -3,4 +3,4 @@
   
 **A reference implementation of** *Speed/accuracy trade-off between the habitual and the goal-directed processes. M. Keramati, A. Dezfouli, P. Piray. Plos Comp Bio, 7(5), 2011.
 
-**Keywords**: Neuroscience, Decision-Making, Python
+**Keywords**: Neuroscience, Decision-Making, Reinforcement Learning, Python
